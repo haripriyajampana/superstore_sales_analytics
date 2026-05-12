@@ -40,7 +40,7 @@ superstore-sales-analytics/
 
 ## 📊 Dashboard Preview
 ![Dashboard Preview](screenshots/dashboard_preview.png)
-
+![Dashboard Preview](screenshots/dashboard_preview2.png)
 ---
 
 ## 🔍 Key Business Insights
